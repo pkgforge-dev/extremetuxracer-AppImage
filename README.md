@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/ExtremeTuxRacer-AppImage)](https://github.com/pkgforge-dev/ExtremeTuxRacer-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://sourceforge.net/p/extremetuxracer/code/HEAD/tree/trunk/resources/etr.png" width="128" />
+  <img src="https://sourceforge.net/p/extremetuxracer/code/HEAD/tree/trunk/resources/etr.svg?format=raw" width="128" />
 </p>
 
 
